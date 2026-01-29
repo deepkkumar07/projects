@@ -1,2 +1,2 @@
 # projects
-preoject learning
+project learning
